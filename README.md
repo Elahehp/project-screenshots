@@ -1,3 +1,4 @@
+<img width="1152" height="688" alt="Excel_1" src="https://github.com/user-attachments/assets/c2c2aa29-8f7f-4e10-9420-ec2f22ac5944" />
 
 # Bike Sales Analysis Project
 
