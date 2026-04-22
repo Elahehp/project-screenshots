@@ -18,4 +18,4 @@ Click on any image to view the full-size source file.
 [![Pivot Graphic 3](https://raw.githubusercontent.com/Elahehp/project-screenshots/main/pivot-graphic3.png)](https://github.com/Elahehp/project-screenshots/blob/main/pivot-graphic3.png)
 
 
-[View the Notebook](./Colab.ipynb)
+[View the Colab project](./Colab.ipynb)
