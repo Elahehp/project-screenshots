@@ -80,7 +80,6 @@ I believe that the attention to detail required for a fine-art portrait is the s
 
 **Technical Impact:** Demonstrated the ability to navigate relational schemas and provide structured data for large-scale economic analysis.
 
-> 📂 [**View SQL Scripts & Query Results**](https://github.com/Elahehp/World-SQL-Analysis)
 ---
 ### 📱 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elahehpaktinat)
