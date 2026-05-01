@@ -57,7 +57,6 @@ I believe that the attention to detail required for a fine-art portrait is the s
 **Business Impact:** Provided a clear visual framework for understanding the "DNA" of popular music, aiding in trend forecasting for content curators.
 
 > 📊 [**View Interactive Tableau Site ↗**](https://public.tableau.com/app/profile/elaheh.paktinat/viz/SpotifyFeaturesfinall/Dashboard1)
-> 📂 [**View Documentation Repository**](https://elahehp.github.io/Spotify-Analysis-Tableau)
 
 ---
 
