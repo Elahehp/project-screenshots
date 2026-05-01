@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://unsplash.com/illustrations/people-working-on-a-computer-with-documents-and-charts-m0hPqbPPrtM)" width="100%" />
+  <img src="(file:///C:/Users/ElahehPaktinat/Downloads/sayyam-abbasi-m0hPqbPPrtM-unsplash.svg)" width="100%" />
 </p>
 
 # Hi, I'm Eli! 👋
