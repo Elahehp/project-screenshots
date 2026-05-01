@@ -15,7 +15,7 @@ I believe that the attention to detail required for a fine-art portrait is the s
 | Portrait Study | Detail Work |
 | :---: | :---: |
 | <img src="IMG_1186.jpg" width="300" /> | <img src="IMG_1185.jpg" width="300" /> |
-|||
+||
 | <img src="IMG_1188.jpg" width="300" /> | <img src="IMG_1207.jpg" width="300" /> |
 
 ---
