@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sayyam-abbasi-m0hPqbPPrtM-unsplash.svg" width="100%" />
+  <img src="sayyam-abbasi-m0hPqbPPrtM-unsplash.svg" style="width: 100%; height: 200px; object-fit: cover;" />
 </p>
 
 # Hi, I'm Eli! 👋
@@ -9,8 +9,8 @@ I’m building my portfolio to show the projects I created during my data course
 
 ### 🚀 About Me
 - 🔭 I’m currently working on: **Developing Further Technical skills**
-- 💬 Linkedin **www.linkedin.com/in/elahehpaktinat**
-- 🌱 I’m currently learning **[Tech Stack]**
+- 💬 My Linkedin **www.linkedin.com/in/elahehpaktinat**
+- 💬 My Github **https://github.com/Elahehp**
   
 
 ### 🛠 Tech Stack
@@ -23,9 +23,9 @@ I’m building my portfolio to show the projects I created during my data course
 ---
 
 
-
 ### 📊 My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Elahehp&show_icons=true&theme=radical)
+
 ## Projects I have done:
 
 ### Project 1: Bike Sales Analysis Project (Pivot Tables & Visualizations)
