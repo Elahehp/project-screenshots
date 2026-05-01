@@ -29,11 +29,11 @@ I believe that the attention to detail required for a fine-art portrait is the s
 
 | Project | Category | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Global Bike Sales Analysis** | Sales & Retail | ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) | [View Project ↗](https://github.com/Elahehp/Bike-Sales-Analysis-Excel) |
-| **Customer Segmentation** | Marketing | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | [View Project ↗](https://github.com/Elahehp/Customer-Segmentation-Python) |
-| **Financial Performance** | Finance | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black) | [View Project ↗](https://github.com/Elahehp/Financial-Performance-PowerBI) |
-| **Sales Forecasting** | Logistics | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) | [View Project ↗](https://github.com/Elahehp/Sales-Forecasting-Tableau) |
-| **Inventory Management** | Operations | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) | [View Project ↗](https://github.com/Elahehp/Inventory-Management-SQL) |
+| **Global Bike Sales Analysis** | Sales & Retail | Excel | [View Project ↗](https://github.com/Elahehp/Bike-Sales-Analysis) |
+| **Customer Segmentation** | Marketing | Python | [View Project ↗](https://github.com/Elahehp/Customer-Segmentation-Python) |
+| **Financial Performance** | Finance | Power BI | [View Project ↗](https://github.com/Elahehp/Financial-Performance-PowerBI) |
+| **Sales Forecasting** | Logistics | Tableau | [View Project ↗](https://github.com/Elahehp/Sales-Forecasting-Tableau) |
+| **Inventory Management** | Operations | SQL | [View Project ↗](https://github.com/Elahehp/Inventory-Management-SQL) |
 ---
 ### 📱 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elahehpaktinat)
