@@ -29,7 +29,7 @@ I believe that the attention to detail required for a fine-art portrait is the s
 
 ## 🛠 Tech Stack
 
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Elahehp/Bike-Sales-Analysis-Excel)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://elahehp.github.io/Bike-Sales-Analysis-Excel/)
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Elahehp/Financial-Performance-PowerBI)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/Elahehp/Sales-Forecasting-Tableau)
 [![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Elahehp/Inventory-Management-SQL)
@@ -38,11 +38,9 @@ I believe that the attention to detail required for a fine-art portrait is the s
 ---
 ## 📊 Featured Data Analytics Projects
 
-### 🚲 [Global Bike Sales Analysis](https://github.com/Elahehp/Bike-Sales-Analysis-Excel)
-**The Problem:** Identifying underperforming regional markets and demographic segments.
-**The Solution:** Built a dynamic Excel dashboard using Pivot Tables to segment $5k+$ rows of transactional data.
-**Business Impact:** Pinpointed the "Adult" demographic in the US as the primary revenue driver, suggesting a shift in marketing focus.
-> 🔗 [**View Live Dashboard Preview**](https://github.com/Elahehp/Bike-Sales-Analysis-Excel#analysis-breakdown)
+### 🚲 [Global Bike Sales Analysis](https://elahehp.github.io/Bike-Sales-Analysis-Excel/)
+**Executive Sales Dashboard & Demographic Analysis**
+> 🔗 [**View Live Portfolio Site ↗**](https://elahehp.github.io/Bike-Sales-Analysis-Excel/)
 
 ---
 
