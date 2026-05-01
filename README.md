@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sayyam-abbasi-m0hPqbPPrtM-unsplash.svg" style="width: 100%, height: "350" />
+  <img src="sayyam-abbasi-m0hPqbPPrtM-unsplash.svg" width="100%" height="350">
 </p>
 
 # Hi, I'm Eli! 👋
