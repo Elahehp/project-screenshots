@@ -23,7 +23,7 @@ I’m building my portfolio to show the projects I created during my data course
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elahehp&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Elahehp&show_icons=true&theme=radical)
 ## Projects I have done:
 
 ### Project 1: Bike Sales Analysis Project (Pivot Tables & Visualizations)
