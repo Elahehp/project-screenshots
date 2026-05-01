@@ -2,14 +2,21 @@
 # Hi, I'm Eli! 👋
 
 ### 📊 Data Analyst in Training
-I’m building my portfolio to show the projects I created during my data course. The course was about transforming raw data into actionable insights using **Python**, **Excel**, **Power BI**, **Tableau** and **SQL**.
+I’m building my portfolio to show the projects I created during my data course. The course was about transforming raw data into actionable insights using  **Excel**,**Python**, **Power BI**, **Tableau** and **SQL**.
 
-- 🔭 I’m currently working on: **Developing Technical skills**
+- 🔭 I’m currently working on: **Developing Further Technical skills**
 ## What I have learnt:
 - Excel and data basics
 - Python / Google Colab
 - SQL / MySQL Workbench
 - Tableau / Power BI dashboards
+### 🛠 Tech Stack
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ---
 
 
@@ -18,9 +25,6 @@ I’m building my portfolio to show the projects I created during my data course
 - 🌱 I’m currently learning **[Tech Stack]**
 - 💬 Ask me about **[Topic]**
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### 📊 My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Elahehp&show_icons=true&theme=radical)
